@@ -566,7 +566,7 @@ export class Claim extends Component {
                 <div className="row row-top-gap">
                     <div className="col-md-6">
                         <div className="form-group">
-                            <label>Ailment</label>
+                            <label>Ailment.</label>
                             {AilmentList}
                             <span id="errailmentId" className="text text-danger"></span>
 

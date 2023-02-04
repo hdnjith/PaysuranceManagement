@@ -278,7 +278,7 @@ export class Ailment extends Component {
                             <div className="row">
                                 <div className="col-md-10">
                                     <div className="card-header">
-                                        <h5 className="title">Ailment</h5>
+                                        <h5 className="title">Ailment.</h5>
                                     </div>
                                 </div>
                                 <div className="col-md-2">
