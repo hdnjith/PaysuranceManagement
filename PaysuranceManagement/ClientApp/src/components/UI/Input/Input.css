@@ -1,0 +1,16 @@
+
+.Invalid {
+    border: 1px solid red;
+    /*opacity: 0.5;
+    background-color: #FDA49A;*/
+}
+ 
+.ErrorMsg {
+    color: red;
+    font: inherit;
+    font-size: 13px;
+}
+
+.Hidden {
+    display:none;
+}

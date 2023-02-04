@@ -1,0 +1,48 @@
+/*!
+
+ =========================================================
+ * Now UI Dashboard - v1.0.1
+ =========================================================
+
+ * Product Page: http://www.creative-tim.com/product/now-ui-dashboard
+ * Copyright 2017 Creative Tim (http://www.creative-tim.com)
+ * Licensed under MIT (https://github.com/creativetimofficial/now-ui-dashboard/blob/master/LICENSE.md)
+
+ * Designed by www.invisionapp.com Coded by www.creative-tim.com
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+@import 'mbanx-styles';
+
+@import 'app-styles/variables';
+@import 'app-styles/mixins';
+
+// Plugins CSS
+@import "app-styles/plugins/plugin-animate-bootstrap-notify";
+@import "app-styles/plugins/plugin-perfect-scrollbar";
+
+// Core CSS
+@import "app-styles/buttons";
+@import "app-styles/inputs";
+@import "app-styles/typography";
+@import "app-styles/misc";
+@import "app-styles/checkboxes-radio";
+
+// components
+@import "app-styles/navbar";
+@import "app-styles/page-header";
+@import "app-styles/dropdown";
+@import "app-styles/alerts";
+@import "app-styles/images";
+@import "app-styles/nucleo-outline";
+@import "app-styles/tables";
+@import "app-styles/sidebar-and-main-panel";
+@import "app-styles/cards";
+@import "app-styles/footers";
+@import "app-styles/fixed-plugin";
+
+@import "app-styles/responsive";
